@@ -50,3 +50,11 @@ form{
   margin: 8px 0;
   box-sizing: border-box;
 }
+
+body{
+  background: lightslategrey;
+}
+
+a:link{
+  color: coral;
+}
